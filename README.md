@@ -33,6 +33,8 @@ GPU: AMD RX580
 - MacPro6,1: AMD R5/R7/R9 及以下显卡
 - iMac14,2: Nvidia Kepler 及以上显卡
 
+![](https://raw.githubusercontent.com/SpaceEggs/B450M-Mortar-Max-Hackintosh/master/pic/GenSMBIOS.png)
+
 将返回的信息与 plist 中的 PlatformInfo 项对应：
 
 | 序列号        | 对应项                        |
@@ -51,6 +53,8 @@ GPU: AMD RX580
 | -------------- | --------------------------------------- |
 | agdpmod=pikera | RX5000 系列显卡添加                     |
 | nvda_drv_vrl=1 | Nvidia Maxwell 和 Pascal 架构的显卡使用 |
+
+![](https://raw.githubusercontent.com/SpaceEggs/B450M-Mortar-Max-Hackintosh/master/pic/AddBootArgs.png)
 
 ## BIOS 设置
 
