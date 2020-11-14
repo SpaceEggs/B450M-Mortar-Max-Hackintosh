@@ -1,3 +1,7 @@
+可以直接通过此 EFI 升级到 MacOS BigSur
+
+![](https://raw.githubusercontent.com/SpaceEggs/B450M-Mortar-Max-Hackintosh/master/Pic/BigSur.png)
+
 ## 配置
 
 CPU: Ryzen 3700X
