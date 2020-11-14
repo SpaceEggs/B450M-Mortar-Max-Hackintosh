@@ -28,7 +28,9 @@ GPU: AMD RX580
 
 ## 食用指南
 
-制作完 Recovery U盘后，使用 ProperTree 打开 EFI/OC 目录下的 config.plist 文件。
+制作完 Recovery U盘后，替换目录下的 EFI 目录
+
+使用 ProperTree 打开 EFI/OC 目录下的 config.plist 文件。
 
 打开 GenSMBIOS，先输入 1，再输入 3，根据以下配置输入型号可得序列号：
 
