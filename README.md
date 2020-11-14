@@ -24,11 +24,11 @@ GPU: AMD RX580
 
 ## 食用指南
 
-制作完 Recovery U盘后，使用 ProperTree 打开 config.plist 文件。
+制作完 Recovery U盘后，使用 ProperTree 打开 EFI/OC 目录下的 config.plist 文件。
 
 打开 GenSMBIOS，先输入 1，再输入 3，根据以下配置输入型号可得序列号：
 
--  iMacPro1,1: AMD RX Polaris 及以上显卡
+- iMacPro1,1: AMD RX Polaris 及以上显卡
 - MacPro7,1: AMD RX Polaris 架构及以上显卡（该型号只能运行在 catalina 及以上版本）
 - MacPro6,1: AMD R5/R7/R9 及以下显卡
 - iMac14,2: Nvidia Kepler 及以上显卡
@@ -37,7 +37,7 @@ GPU: AMD RX580
 
 | 序列号        | 对应项                        |
 | ------------- | ----------------------------- |
-| Type          | Generic -> SystemProductName. |
+| Type          | Generic -> SystemProductName |
 | Serial        | Generic -> SystemSerialNumber |
 | Board Serial  | Generic -> MLB                |
 | SmUUID        | Generic -> SystemUUID         |
