@@ -1,4 +1,4 @@
-可以直接通过此 EFI 升级到 MacOS BigSur
+可以直接通过此 EFI 升级到 MacOS Big Sur
 
 ![](https://raw.githubusercontent.com/SpaceEggs/B450M-Mortar-Max-Hackintosh/master/Pic/BigSur.png)
 
