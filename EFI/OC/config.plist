@@ -1700,19 +1700,19 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>MLB</key>
-			<string></string>
+			<string>F5K910500GUK3F78C</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data></data>
+			<data>LPBdJ9ck</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string></string>
+			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>F5KYD3ZFP7QM</string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>4BE4ED3A-AC44-48AB-9D1E-8C25532ECD73</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
