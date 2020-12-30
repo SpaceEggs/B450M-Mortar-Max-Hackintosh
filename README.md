@@ -14,11 +14,11 @@ GPU: AMD RX580
 
 | Package       | Version |
 | ------------- | ------- |
-| OpenCore      | 0.6.3   |
-| Lilu          | 1.4.9   |
-| VirtualSMC    | 1.1.8   |
-| WhateverGreen | 1.4.4   |
-| AppleALC      | 1.5.4   |
+| OpenCore      | 0.6.4   |
+| Lilu          | 1.5.0   |
+| VirtualSMC    | 1.1.9   |
+| WhateverGreen | 1.4.5   |
+| AppleALC      | 1.5.5   |
 
 ## 准备工作
 
