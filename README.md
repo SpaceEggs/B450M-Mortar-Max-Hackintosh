@@ -12,13 +12,17 @@ GPU: AMD RX580
 
 ## 版本
 
-| Package       | Version |
-| ------------- | ------- |
-| OpenCore      | 0.6.5   |
-| Lilu          | 1.5.0   |
-| VirtualSMC    | 1.1.9   |
-| WhateverGreen | 1.4.6   |
-| AppleALC      | 1.5.6   |
+| Package                    | Version |
+| -------------------------- | ------- |
+| OpenCore                   | 0.6.7   |
+| Lilu                       | 1.5.1   |
+| VirtualSMC                 | 1.2.1   |
+| WhateverGreen              | 1.4.8   |
+| AppleALC                   | 1.5.8   |
+| RealtekRTL8111             | 2.4.0   |
+| NVMeFix                    | 1.0.5   |
+| AMDRyzenCPUPowerManagement | 0.6.6   |
+| SMCAMDProcessor            | 0.6.4   |
 
 ## 准备工作
 
@@ -62,7 +66,7 @@ GPU: AMD RX580
 
 ![](https://raw.githubusercontent.com/SpaceEggs/B450M-Mortar-Max-Hackintosh/master/pic/AddBootArgs.png)
 
-> 如无法加载 OC 可能是 bios 更新导致的，可以尝试将 Booter -> Quirks -> SetupVirtualMap 设为 No
+> 如无法加载 OC 请尝试将主板 BIOS 更新到最新
 
 ## BIOS 设置
 
